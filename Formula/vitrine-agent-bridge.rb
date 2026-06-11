@@ -1,9 +1,9 @@
 class VitrineAgentBridge < Formula
   desc "Bridge Vision Pro app text queries into a Mac agent's tmux session"
   homepage "https://akuaku.org/vitrine/"
-  url "https://akuaku.org/vitrine/vitrine-agent-bridge-0.1.1-universal.tar.gz"
-  sha256 "c7e913e2cdebc125bad74f33f2e5bd48a4244afc2a8af378940646da8ae424e5"
-  version "0.1.1"
+  url "https://akuaku.org/vitrine/vitrine-agent-bridge-0.1.2-universal.tar.gz"
+  sha256 "c00bfbdba8de4b2d5a8c2f61483d616d8d78d3ff871c5ce5d726822b19e94685"
+  version "0.1.2"
 
   def install
     bin.install "vitrine-agent-bridge"
